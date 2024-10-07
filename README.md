@@ -1,5 +1,5 @@
 # Bike-sharing-analisis
-Bike Sharing Dashboard adalah visualisasi data berbasis Streamlit yang menyediakan analisis mengenai penyewaan sepeda
+Bike Sharing  analisis adalah  dashboard visualisasi data berbasis Streamlit yang menyediakan analisis mengenai penyewaan sepeda
 dasboard ini  melakukan filter data berdasarkan jam dan tanggal, serta menampilkan visualisasi data berupa tabel dan grafik penyewaan sepeda.
 
 # cara menjalankan aplikasi
