@@ -16,5 +16,5 @@ contoh : streamlit run streamlit_rfm_analysis.py
 
 # dataset
 datset yang di gunakan ada:
--hour.csv: Dataset yang berisi data penyewaan sepeda berdasarkan jam.
--day.csv: Dataset yang berisi data penyewaan sepeda berdasarkan hari.
+- hour.csv: Dataset yang berisi data penyewaan sepeda berdasarkan jam.<br>
+- day.csv: Dataset yang berisi data penyewaan sepeda berdasarkan hari.<br>
